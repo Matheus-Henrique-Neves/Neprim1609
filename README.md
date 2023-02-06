@@ -19,5 +19,6 @@ At the moment I am a student at the school "SENAI Prof. Dr. Euryclides de Jesus 
 </div>
          
 ##Não vai morrer de fome cobrinha
-[Snake animation](https://github.com/Neprim1609/Neprim1609/blob/output/github-contribution-grid-snake.svg)
+<br>
+![Snake animation](https://github.com/Neprim1609/Neprim1609/blob/output/github-contribution-grid-snake.svg)
           
