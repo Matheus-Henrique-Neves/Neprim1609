@@ -13,10 +13,11 @@ At the moment I am a student at the school "SENAI Prof. Dr. Euryclides de Jesus 
 =====================JS=====================<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
-## My Statistics<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
-          
-          
-
+## My Statistics<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
 <div>
 <a href="https://github.com/Neprim1609"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neprim1609&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neprim1609&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+         
+##Não vai morrer de fome cobrinha
+![Snake animation](https://github.com/Neprim1609/Neprim1609/blob/output/github-contribution-grid-snake.svg)
+          
