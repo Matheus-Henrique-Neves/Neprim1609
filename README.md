@@ -18,7 +18,5 @@ At the moment I am a student at the school "SENAI Prof. Dr. Euryclides de Jesus 
 <a href="https://github.com/Neprim1609"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neprim1609&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neprim1609&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
          
-##Não vai morrer de fome cobrinha
-<br>
-![Snake animation](https://github.com/Neprim1609/Neprim1609/blob/output/github-contribution-grid-snake.svg)
+
           
