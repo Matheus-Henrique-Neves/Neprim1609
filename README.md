@@ -8,27 +8,25 @@ Ja participei de competiçoes de programação com a Spskills
 
 ## No momento eu estou aprendendo as seguintes tecnologias no Senai
 
-<div style="    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    text-align: center;">
+<div >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" /> 
 Estamos aprendendo a como criar aplicativos com conexão com WEB_Services ou utilizar o FireBase que sera ulizado no trabalho do termo do senai.
 </div>
 <br><br>
 
-
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> 
 Faz parte do famoso trio para o Front-end, ele esta sendo utilizado como umas das bases para do meu projeto do conclusão de curso do senai
 
+</div>
 <br><br>
 
-
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
 O C# é a liguagem de programação de estamos utilizando para fazer o Back-end tanto do WEB_Services quanto o proprio Back-end do site 
-
+</div>
 <br><br>
 
 
@@ -48,8 +46,8 @@ No Curso aprendemos a utilizar o sql utlizando o Mysql , tanto que ele é o banc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
 </div>
 
-<div>
-##minhas estatisticas para sanar um pouco de suas curiosidades
+<div >
+##minhas estatisticas para sanar um pouco de suas curiosidades<br>
 <a href="https://github.com/Neprim1609"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neprim1609&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neprim1609&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
