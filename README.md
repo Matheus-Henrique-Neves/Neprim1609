@@ -46,7 +46,7 @@ No Curso aprendemos a utilizar o sql utlizando o Mysql , tanto que ele é o banc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
 </div>
 
-<div >
+<div>
 ##minhas estatisticas para sanar um pouco de suas curiosidades<br>
 <a href="https://github.com/Neprim1609"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neprim1609&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neprim1609&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
