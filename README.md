@@ -1,11 +1,22 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Matheus Henrique Almeida Viera Neves and my nickname is "Neprim"!
+# Ola meu nome é Matheus Henrique Almeida Vieira Neve.
+ 
+No momento atual eu sou estudante na escola SENAI Prof. Dr. Euryclides de Jesus Zerbini no curso tecnico de <strong> Desenvolvimento de sistesmas</strong>
 
-At the moment I am a student at the school "SENAI Prof. Dr. Euryclides de Jesus Zerbini"
+Porem estou em busca de meu primeiro emprego na área, mas estou aberto a novas experiencias.
 
-## Tools and Technologies that I use most at the moment
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
-## The tools I'm still learning
+Ja participei de competiçoes de programação com a Spskills 
+
+## No momento eu estou aprendendo as seguintes tecnologias no Senai
+<div style=" ">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" /> Estamos aprendendo a como criar aplicativos com conexão com WEB_Services ou utilizar o FireBase.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
+
+</div>
 =====================PHP=====================<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" />
